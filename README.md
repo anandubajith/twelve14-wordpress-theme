@@ -1,7 +1,5 @@
-# Twelve14 WordPress theme
-block-log
-=========
-
+Twelve14 WordPress theme
+========================
 <img src="/screenshot.png" title="block-log theme" alt="A screenshot of block-log theme."">
 | [Live demo](https://wordpress.org/themes/twelve-14/) | [Github Repo](https://github.com/anandubajith/twelve14-wordpress-theme) | [Download zip](https://github.com/anandubajith/twelve14-wordpress-theme/archive/master.zip) |
 |-----------|-------------|---------------|
